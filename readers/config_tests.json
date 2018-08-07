@@ -1,0 +1,10 @@
+{
+
+	"column_unique_tests":{
+		
+		"test_column" : "id",
+		"tablename" : "bharath"
+
+	}
+
+}

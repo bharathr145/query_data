@@ -1,0 +1,12 @@
+{
+    
+    "test_table" :{
+
+        "test_name" :"coulumn_unique_tests",
+        "column_name" : "test_column",
+        "test_table_name" : "bharath"
+
+        }
+
+
+}
